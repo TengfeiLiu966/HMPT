@@ -14,7 +14,7 @@ If you use the MMaterials and MAAPD datasets in your research, please cite:
   author={Tengfei Liu and Yongli Hu and Junbin Gao and Yanfeng Sun and Baocai Yin},  
   journal={ACM Transactions on Knowledge Discovery from Data},  
   year={2023},  
-  url={[https://api.semanticscholar.org/CorpusID:250115768](https://doi.org/10.1145/3631711)https://doi.org/10.1145/3631711}  
+  url={https://doi.org/10.1145/3631711}  
 }  
 ```
 
