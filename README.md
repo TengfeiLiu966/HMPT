@@ -22,5 +22,5 @@ If you use the MMaterials and MAAPD datasets in your research, please cite:
 * [Sample 1 from MMaterials](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E?usp=drive_link](https://drive.google.com/drive/u/0/folders/1X59nk4osdhruhlhMo2lZlOLDv5tvU4HF)  
 * [Sample 2 from MMaterials](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E?usp=drive_link](https://drive.google.com/drive/u/0/folders/1EBJAwGGYEIUMFSQgY7yvABelXtySL5KJ)  
 * [Sample 1 from MAAPD](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E?usp=drive_link](https://drive.google.com/drive/u/0/folders/19xN_5bgsf5M8vz6cEpIAmrAbCJmQnrNt)  
-* [Sample 1 from MAAPD](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E?usp=drive_link](https://drive.google.com/drive/u/0/folders/15ma1j9Fw1EoFAUl1yWWxPlaFRvrpF-jF)https://drive.google.com/drive/u/0/folders/15ma1j9Fw1EoFAUl1yWWxPlaFRvrpF-jF)  
+* [Sample 2 from MAAPD](https://drive.google.com/drive/u/0/folders/15ma1j9Fw1EoFAUl1yWWxPlaFRvrpF-jF)  
   
