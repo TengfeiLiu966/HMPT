@@ -7,4 +7,4 @@ https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E?usp=dri
 
 For the dataset of MMaterials, due to copyright restrictions, it is not convenient to disclose directly. If needed, please feel free to contact me via email for access tfliu@emails.bjut.edu.cn.
 
-%If you use the MMaterials and MAAPD datasets in your research, please cite:  
+##Original PDF Links
