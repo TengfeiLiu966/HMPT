@@ -27,3 +27,5 @@ If you use the MMaterials and MAAPD datasets in your research, please cite:
 ##  Statistics of MMaterials and MAAPD  
 The detailed statistical information on the document length and the number of images of the two datasets is shown in the following figure.  
 ![文档长度分布](https://github.com/TengfeiLiu966/HMPT/blob/main/Images/document_length.png)
+
+![图像数量分布](https://github.com/TengfeiLiu966/HMPT/blob/main/Images/number_image.png)
