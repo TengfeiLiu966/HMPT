@@ -23,3 +23,6 @@ If you use the MMaterials and MAAPD datasets in your research, please cite:
 * [Sample 2 from MMaterials](https://drive.google.com/drive/u/0/folders/1EBJAwGGYEIUMFSQgY7yvABelXtySL5KJ)  
 * [Sample 1 from MAAPD](https://drive.google.com/drive/u/0/folders/19xN_5bgsf5M8vz6cEpIAmrAbCJmQnrNt)
 * [Sample 2 from MAAPD](https://drive.google.com/drive/u/0/folders/15ma1j9Fw1EoFAUl1yWWxPlaFRvrpF-jF)
+
+##  Statistics of MMaterials and MAAPD  
+The detailed statistical information on the document length and the number of images of the two datasets is shown in the following figure.
