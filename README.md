@@ -21,4 +21,4 @@ If you use the MMaterials and MAAPD datasets in your research, please cite:
 ## Original PDF Links, Parsed XML File, and Extracted Images  
 * [Sample 1 from MMaterials](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E?usp=drive_link](https://drive.google.com/drive/u/0/folders/1X59nk4osdhruhlhMo2lZlOLDv5tvU4HF)  
 * [Sample 2 from MMaterials](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E?usp=drive_link](https://drive.google.com/drive/u/0/folders/1EBJAwGGYEIUMFSQgY7yvABelXtySL5KJ)  
-  
+* [Sample 1 from MAAPD]
