@@ -6,7 +6,7 @@ To download the dataset, pls go to this URL: [https://drive.google.com/open?id=1
 
 Any questions can be sent to tfliu@emails.bjut.edu.cn
 
-If you play this benchmark dataset, please cite:
+Please cite our paper if you use HMPT in your work:
 
     @article{liu2024hierarchical,
      title={Hierarchical Multi-modal Prompting Transformer for Multi-modal Long Document Classification},
