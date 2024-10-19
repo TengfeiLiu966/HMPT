@@ -37,7 +37,7 @@ rootPath = os.path.split(curPath)[0]
 PathProject = os.path.split(rootPath)[0]
 sys.path.append(rootPath)
 sys.path.append(PathProject)
-sys.path.append('./code/HMPT/datasets')
+sys.path.append('./HMPT/datasets')
 import torch.nn as nn
 from common.evaluators.bert_evaluator import BertEvaluator
 from common.trainers.bert_trainer import BertTrainer
