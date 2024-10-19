@@ -8,48 +8,10 @@ Please organize the dataset structure as follows:
 ```
 dataset
 ├── MMaterials
-│   ├── class_001
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── ...
-│   ├── class_002
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── ...
-│   └── ...
 ├── MAAPD
-│   ├── class_001
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── ...
-│   ├── class_002
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── ...
-│   └── ...
 ├── Review
-│   ├── class_001
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── ...
-│   ├── class_002
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── ...
-│   └── ...
 ├── Food101
-│   ├── class_001
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── ...
-│   ├── class_002
-│   │   ├── 1.jpg
-│   │   ├── 2.jpg
-│   │   └── ...
-│   └── ...
 ```
-
-```multi-modal ├── MMaterials │ ├── class_001 │ │ ├── 1.jpg │ │ ├── 2.jpg │ │ └── ... │ ├── class_002 │ │ ├── 1.jpg │ │ ├── 2.jpg │ │ └── ... │ └── ... ├── MAAPD ├── Review ├── Food101 ```
 
 Any questions can be sent to tfliu@emails.bjut.edu.cn
 
