@@ -6,7 +6,7 @@ To download the dataset, pls go to this URL: [https://drive.google.com/open?id=1
 
 Please organize the dataset structure as follows:
 
-multi-modal ├── MMaterials │ ├── class_001 │ │ ├── 1.jpg │ │ ├── 2.jpg │ │ └── ... │ ├── class_002 │ │ ├── 1.jpg │ │ ├── 2.jpg │ │ └── ... │ └── ... ├── MAAPD ├── Review ├── Food101 
+‘’‘multi-modal ├── MMaterials │ ├── class_001 │ │ ├── 1.jpg │ │ ├── 2.jpg │ │ └── ... │ ├── class_002 │ │ ├── 1.jpg │ │ ├── 2.jpg │ │ └── ... │ └── ... ├── MAAPD ├── Review ├── Food101 ’‘’
 
 Any questions can be sent to tfliu@emails.bjut.edu.cn
 
