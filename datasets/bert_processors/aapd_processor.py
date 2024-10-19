@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append('/home/ltf/code/HMPT3/datasets')
+sys.path.append('./code/HMPT3/datasets')
 import tqdm
 import torch.nn as nn
 import copy
