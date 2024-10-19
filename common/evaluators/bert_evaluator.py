@@ -1,6 +1,6 @@
 import warnings
 import sys
-sys.path.append('/home/ltf/code/HMPT3/datasets')
+sys.path.append('./HMPT/datasets')
 import numpy as np
 import torch
 from torch import nn
