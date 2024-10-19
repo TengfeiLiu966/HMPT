@@ -1,4 +1,4 @@
-# BenchmarkingZeroShot
+# HMPT
 
 Hi, this repository contains the code and the data for the TCSVT2024 paper "Hierarchical Multi-modal Prompting Transformer for Multi-modal Long Document Classification"
 
