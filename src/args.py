@@ -92,6 +92,6 @@ def get_args():
     parser.add_argument('--save-path', type=str, default=os.path.join('model_checkpoints', 'bert'))
     parser.add_argument('--cache-dir', default='cache', type=str)
     parser.add_argument('--trained-model', default=None, type=str)
-    parser.add_argument('--data-dir', default='/home/ltf/code/data/multi-modal/')
+    parser.add_argument('--data-dir', default='./data/multi-modal/')
     args = parser.parse_args()
     return args
