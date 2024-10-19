@@ -1,7 +1,7 @@
 import datetime
 import os
 import sys
-sys.path.append('/home/ltf/code/HMPT3/datasets')
+sys.path.append('./code/HMPT3/datasets')
 import numpy as np
 import torch
 from torch import nn
