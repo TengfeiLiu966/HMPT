@@ -1,8 +1,8 @@
 # BenchmarkingZeroShot
 
-Hi, this repository contains the code and the data for the EMNLP2019 paper "Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach"
+Hi, this repository contains the code and the data for the TCSVT2024 paper "Hierarchical Multi-modal Prompting Transformer for Multi-modal Long Document Classification"
 
-To download the dataset for "topic detection", "emotion detection" and "situation detection", pls go to this URL: https://drive.google.com/open?id=1qGmyEVD19ruvLLz9J0QGV7rsZPFEz2Az
+To download the dataset, pls go to this URL: [https://drive.google.com/open?id=1qGmyEVD19ruvLLz9J0QGV7rsZPFEz2Az](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E?dmr=1&ec=wgc-drive-hero-goto)
 
 To download the wikipedia data and three pretrained entailment models (RTE, MNLI, FEVER), pls go to this URL:
 https://drive.google.com/file/d/1ILCQR_y-OSTdgkz45LP7JsHcelEsvoIn/view?usp=sharing
